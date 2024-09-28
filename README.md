@@ -16,7 +16,7 @@
 [![Web](https://skillicons.dev/icons?i=react,symfony,tailwind,adonis)](https://skillicons.dev)
 
 ## Mobile
-[![Mobile](https://skillicons.dev/icons?i=react,flutter,tailwind)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
 
 ## Backend
 [![Backend](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
